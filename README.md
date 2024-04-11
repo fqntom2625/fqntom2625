@@ -7,6 +7,9 @@ I'm interested in game development
 
 I'm currently studying Unity on my own and also studying 3D modeling using Blender.
 
+### How to reach me 
+ <a href="https://www.instagram.com/l_dont_be1ong_here/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fqntom2625&exclude_repo=fqntom2625.github.io&layout=compact&theme=tokyonight" />
 </a>
