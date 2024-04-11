@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi I'm Brian Lee👋
 
-## 
+
+### I'm currently studying computer science in university
+### I'm interested in game development
+### I'm currently studying Unity on my own and also studying 3D modeling using Blender.
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fqntom2625&exclude_repo=fqntom2625.github.io&layout=compact&theme=tokyonight" />
