@@ -13,6 +13,9 @@ instagram : https://www.instagram.com/l_dont_be1ong_here/
 mail : fqntom2625@gmail.com
 
 
+
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fqntom2625&exclude_repo=fqntom2625.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
