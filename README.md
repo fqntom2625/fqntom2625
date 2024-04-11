@@ -2,6 +2,7 @@
 
 
 I'm currently studying computer science in university
+
 I'm interested in game development
 
 I'm currently studying Unity on my own and also studying 3D modeling using Blender.
