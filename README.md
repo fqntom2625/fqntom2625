@@ -5,7 +5,7 @@ I'm currently studying computer science in university
 
 I'm interested in game development
 
-I'm currently studying Unity on my own and also studying 3D modeling using Blender.
+I'm currently studying how to make a website
 
 ### How to reach me 
 instagram : https://www.instagram.com/l_dont_be1ong_here/
